@@ -1,0 +1,28 @@
+D:\PTPM_ThongMinh\GUI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\GUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\GUI\DAL\bin\Debug\DAL.dll
+D:\PTPM_ThongMinh\GUI\DAL\bin\Debug\DAL.pdb
+D:\PTPM_ThongMinh\GUI\DAL\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\GUI\DAL\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\GUI\DAL\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\GUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PTPM_ThongMinh\GUI\DAL\obj\Debug\DAL.dll
+D:\PTPM_ThongMinh\GUI\DAL\obj\Debug\DAL.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\bin\Debug\DAL.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\bin\Debug\DAL.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\bin\Debug\DTO.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\bin\Debug\System.Linq.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\bin\Debug\DTO.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\obj\Debug\DAL.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DAL\obj\Debug\DAL.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\bin\Debug\DAL.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\bin\Debug\DAL.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\obj\Debug\DAL.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DAL\obj\Debug\DAL.pdb

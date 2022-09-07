@@ -1,0 +1,34 @@
+D:\PTPM_ThongMinh\GUI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\GUI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\GUI\BLL\bin\Debug\BLL.dll
+D:\PTPM_ThongMinh\GUI\BLL\bin\Debug\BLL.pdb
+D:\PTPM_ThongMinh\GUI\BLL\bin\Debug\DAL.dll
+D:\PTPM_ThongMinh\GUI\BLL\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\GUI\BLL\bin\Debug\DAL.pdb
+D:\PTPM_ThongMinh\GUI\BLL\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\GUI\BLL\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\GUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\PTPM_ThongMinh\GUI\BLL\obj\Debug\BLL.dll
+D:\PTPM_ThongMinh\GUI\BLL\obj\Debug\BLL.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\bin\Debug\BLL.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\bin\Debug\BLL.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\bin\Debug\DAL.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\bin\Debug\DTO.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\bin\Debug\System.Linq.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\bin\Debug\DAL.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\bin\Debug\DTO.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\obj\Debug\BLL.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BLL\obj\Debug\BLL.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\bin\Debug\BLL.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\bin\Debug\BLL.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\bin\Debug\DAL.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\bin\Debug\DAL.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\obj\Debug\BLL.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,33 @@
+D:\PTPM_ThongMinh\GUI\BUS\bin\Debug\BUS.dll
+D:\PTPM_ThongMinh\GUI\BUS\bin\Debug\BUS.pdb
+D:\PTPM_ThongMinh\GUI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\GUI\BUS\obj\Debug\BUS.dll
+D:\PTPM_ThongMinh\GUI\BUS\obj\Debug\BUS.pdb
+D:\PTPM_ThongMinh\GUI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\BUS.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\BUS.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\DTO.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\System.Linq.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\DTO.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\obj\Debug\BUS.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\BUS\obj\Debug\BUS.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\BUS.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\BUS.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\obj\Debug\BUS.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\BUS\obj\Debug\BUS.pdb

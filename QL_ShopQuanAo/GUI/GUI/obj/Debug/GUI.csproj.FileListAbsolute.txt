@@ -1,0 +1,356 @@
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.DangNhap.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmBanHang.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmCTHD.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmGioiThieu.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmHoaDon.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmKhachHang.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmMain.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmSanPham.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmThongKe.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmThongTinTaiKhoan.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmTienKhach.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmTienThua.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.exe.licenses
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\GUI.exe.config
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\GUI.exe
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\GUI.pdb
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\BLL.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\BUS.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\Custom.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DAL.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\BLL.pdb
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\BUS.pdb
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\Custom.pdb
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DAL.pdb
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.exe
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.pdb
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmKho.resources
+D:\PTPM_ThongMinh\GUI\GUI\obj\Debug\GUI.FrmNhanVien.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmBanHang.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmCTHD.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmGioiThieu.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmHoaDon.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmKhachHang.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmKho.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmMain.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmNhanVien.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmSanPham.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmThongKe.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmThongTinTaiKhoan.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmTienKhach.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.FrmTienThua.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\BLL.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\BUS.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\DTO.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\System.Linq.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\DAL.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\BLL.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\BUS.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\DTO.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\DAL.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\GUI\obj\Debug\GUI.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\GUI.exe.config
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\GUI.exe
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\GUI.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\BLL.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\BUS.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Data.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DAL.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Images.v19.2.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\BLL.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\BUS.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Data.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DAL.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.DangNhap.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmBanHang.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmCTHD.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmGioiThieu.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmHoaDon.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmKhachHang.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmKho.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmMain.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmNhanVien.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmSanPham.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmThongKe.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmThongTinTaiKhoan.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmTienKhach.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmTienThua.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.exe.licenses
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.exe
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmDMK.resources
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\GUI\obj\Debug\GUI.FrmSanPhamSapHet.resources

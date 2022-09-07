@@ -1,0 +1,20 @@
+D:\PTPM_ThongMinh\GUI\DTO\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\GUI\DTO\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\GUI\DTO\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\GUI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\GUI\DTO\obj\Debug\DTO.dll
+D:\PTPM_ThongMinh\GUI\DTO\obj\Debug\DTO.pdb
+D:\PTPM_ThongMinh\GUI\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DTO\bin\Debug\DTO.dll.config
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DTO\bin\Debug\DTO.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DTO\bin\Debug\DTO.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DTO\bin\Debug\System.Linq.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DTO\obj\Debug\DTO.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phát Triển Phần Mềm Và Ứng Dụng\DOAN\QL_ShopQuanAo\GUI\DTO\obj\Debug\DTO.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DTO\bin\Debug\DTO.dll.config
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DTO\bin\Debug\DTO.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DTO\bin\Debug\DTO.pdb
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DTO\obj\Debug\DTO.dll
+D:\PTPM_ThongMinh\FileUpdate_DoAN\GUI\DTO\obj\Debug\DTO.pdb
